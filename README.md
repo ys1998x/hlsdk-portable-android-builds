@@ -42,7 +42,7 @@ All launchers include **Elinsrc's Axion Client** interface, featuring:
 
 - **Advanced Control layouts:** I'll create Control Layouts for each Port that match its HUD color and script and add extra buttons.
 - **Better Main Menus:** Better Main Menu Buttons for each Port that match game's HUD color.
-- **More Ports:**We Still Have Half-Life mods to port on hl-sdk-portable.
+- **More Ports:** We Still Have Half-Life mods to port on hl-sdk-portable.
 
 ## 📖 The main reason I'm building these ports
 
