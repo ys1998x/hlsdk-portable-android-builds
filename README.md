@@ -6,10 +6,10 @@ A collection of Half-Life SDK portable game builds for Android devices, featurin
 
 This repository contains APK builds for the following Half-Life based games:
 
-- **Opposing Force** - Play as Adrian Shephard in this action-packed expansion
-- **Blue Shift** - Experience the story from a security guard's perspective
-- **Field Intensity** - Intense tactical gameplay and challenges
-- **Delta Particles** - Engaging Half-Life mod experience
+- **Opposing Force** - Play as Adrian Shephard in a action-packed expansion
+- **Blue Shift** - Experience the story from a security Barney Calhoun's perspective
+- **Field Intensity** - Play as Stefan Oldfield in a more action-packed expansion with featureful sdk
+- **Delta Particles** - Play as Nick Farrell which is a scientist on Delta Labs. Based on Spirit Of Half-Life 1.2
 
 ## ✨ Features
 
