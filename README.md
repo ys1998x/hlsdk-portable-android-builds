@@ -38,13 +38,10 @@ All launchers include **Elinsrc's Axion Client** interface, featuring:
 - Press the designated console key to open the CVar interface
 - Enter commands to customize your gameplay experience
 
-## 🤝 Contributing
+## 📋 Todo List
 
-Contributions are welcome! If you'd like to:
-- Report bugs or issues
-- Add new games
-
-Please open an issue or submit a pull request.
+-**Advanced Control layouts:** I'll create Control Layouts for each Port that match its HUD color and script and add extra buttons.
+-**Better Main Menus:** Better Main Menu Buttons for each Port that match game's HUD color
 
 ## 📝 License
 
