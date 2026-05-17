@@ -6,10 +6,10 @@ A collection of Half-Life SDK portable game builds for Android devices, featurin
 
 This repository contains APK builds for the following Half-Life based games:
 
-- **Opposing Force** - Play as Adrian Shephard in a action-packed expansion
-- **Blue Shift** - Experience the story from a security Barney Calhoun's perspective
-- **Field Intensity** - Play as Stefan Oldfield in a more action-packed expansion with featureful sdk
-- **Delta Particles** - Play as Nick Farrell which is a scientist on Delta Labs. Based on Spirit Of Half-Life 1.2
+- **Opposing Force** - Play as Adrian Shephard in a action-packed expansion.
+- **Blue Shift** - Experience the story from Barney Calhoun's perspective.
+- **Field Intensity** - Play as Stefan Oldfield in a more action-packed expansion with freeslave's featureful sdk.
+- **Delta Particles** - Play as Nick Farrell which is a scientist on Delta Labs, Based on Spirit Of Half-Life 1.2
 
 ## ✨ Features
 
@@ -41,7 +41,13 @@ All launchers include **Elinsrc's Axion Client** interface, featuring:
 ## 📋 Todo List
 
 -**Advanced Control layouts:** I'll create Control Layouts for each Port that match its HUD color and script and add extra buttons.
--**Better Main Menus:** Better Main Menu Buttons for each Port that match game's HUD color
+-**Better Main Menus:** Better Main Menu Buttons for each Port that match game's HUD color.
+-**More Ports:**We Still Have Half-Life mods to port on hl-sdk-portable.
+
+## 📖 The main reason I'm building these ports
+
+I know Xash3d FWGS now automatically downloads needed library files for most mods to Android, but I'm making clients for them, because I believe every Half-Life game/mod deserves its own app.
+
 
 ## 📝 License
 
