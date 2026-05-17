@@ -20,44 +20,29 @@ All launchers include **Elinsrc's Axion Client** interface, featuring:
 - ⚙️ **Game Configuration** - Easy access to graphics, audio, and gameplay settings
 - 🎮 **Controller Support** - Optimized controls for mobile and connected devices
 
-## 📋 System Requirements
-
-- **Android Version**: Android 5.0 (API 21) or higher
-- **Storage**: At least 500MB free space per game
-- **RAM**: 2GB minimum (4GB+ recommended)
-- **Processor**: ARM or ARM64 processor
-
 ## 🚀 Installation
 
-1. Download the desired APK file from the [Releases](../../releases) section
+1. Download the desired APK files from the [Releases](../../releases) section
 2. Enable installation from unknown sources on your Android device
 3. Open the APK file and follow the installation prompts
-4. Launch the game and configure your preferences using the Axion Client console
 
 ## 💡 Usage Guide
 
 ### First Launch
 - The Axion Client will open with the main interface
-- Configure your graphics and gameplay preferences
 - Use the console to adjust CVars if needed
+- Then, Press the LAUNCH! button
 
 ### In-Game Console
 - Access the console during gameplay to adjust settings in real-time
 - Press the designated console key to open the CVar interface
 - Enter commands to customize your gameplay experience
 
-### Graphics & Audio Settings
-- Use the UI to toggle graphics quality options
-- Adjust audio levels and effects
-- Configure controller sensitivity and key bindings
-
 ## 🤝 Contributing
 
 Contributions are welcome! If you'd like to:
 - Report bugs or issues
-- Suggest improvements
-- Contribute to optimization
-- Add new games or features
+- Add new games
 
 Please open an issue or submit a pull request.
 
@@ -69,15 +54,10 @@ These builds are based on the Half-Life SDK Portable project. Please refer to th
 
 - **Half-Life SDK Portable** - The foundation for these Android builds
 - **Elinsrc** - Creator of the Axion Client with its beautiful UI and CVar console
+- **Yalnie** - Taught me how to create an Android launcher.
 - The Half-Life modding community
-
-## 📧 Support
-
-If you encounter any issues:
-1. Check the [Issues](../../issues) section for similar problems
-2. Review the game-specific documentation
-3. Open a new issue with detailed information about your problem
-
+  
 ---
 
 **Note**: These are community-built ports. Ensure you have proper rights to the game content before playing.
+## Don't Forget That Piracy Is Bad <3
