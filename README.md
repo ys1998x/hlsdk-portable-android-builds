@@ -6,24 +6,24 @@ A collection of Half-Life SDK portable game builds for Android devices, featurin
 
 This repository contains APK builds for the following Half-Life based games:
 
-• Afraid of Monsters
-• Afraid of Monsters Director's Cut
-• Black Ops
-• Blue Shift
-• Cleaner's Adventures
-• Crack Life
-• Decay (PC version)
-• Deathmatch Classic
-• Delta Particles
-• Echoes
-• Field Intensity
-• Intense Force
-• Opposing Force
-• Poke646
-• Poke646 Vendetta
-• Residual Life
-• The Gate
-• They Hunger
+- Afraid of Monsters
+- Afraid of Monsters Director's Cut
+- Black Ops
+- Blue Shift
+- Cleaner's Adventures
+- Crack Life
+- Decay (PC version)
+- Deathmatch Classic
+- Delta Particles
+- Echoes
+- Field Intensity
+- Intense Force
+- Opposing Force
+- Poke646
+- Poke646 Vendetta
+- Residual Life
+- The Gate
+- They Hunger
 
 ## ✨ Features
 
