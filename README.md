@@ -31,7 +31,7 @@ This repository contains APK builds for the following Half-Life based games:
 All launchers include **Elinsrc's Axion Client** interface, featuring:
 - 🎨 **Beautiful UI** - Modern, intuitive user interface for easy game management
 - 🖥️ **Console** - Built-in console for setting CVars and fine-tuning game settings
-- 
+  
 ## 🚀 Installation
 
 1. Download the desired APK files from the [Releases](../../releases) section
